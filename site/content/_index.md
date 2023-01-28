@@ -1,13 +1,14 @@
 ---
-title: "Welcome to my Portfolio "
-subtitle: "Enjoy the fun of viable  and customer satisfying products! "
+title: "Aina Anuoluwapo "
+subtitle: "Product Manager "
 image: img/20230128_115105_0000.png
 blurb:
   heading: "Aina Anuoluwapo "
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: "A resourceful individual with a proven track record in implementing\r
+    successful team communication strategies and boosting productivity.\r A
+    visionary with a keen interest in product longevity and product\r market
+    relevancy. Highly knowledgable in Trello and Jira softwares,\r Google docs,
+    Canva, Agile and scrum frameworks."
 intro:
   heading: "My Experience "
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
