@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: img/20230128_115105_0000.png
 contact_entries:
   - heading: Location
     text: Nigeria.
